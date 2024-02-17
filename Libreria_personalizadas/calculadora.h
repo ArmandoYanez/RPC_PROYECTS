@@ -13,7 +13,7 @@ int suma(){
     std::cin>>x1;
     std::cin>>x2;
 
-    return 5+20;
+    return x1 + x2;
 }
 
 #endif //PROYECTOS_CALCULADORA_H
