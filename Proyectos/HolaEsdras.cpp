@@ -3,15 +3,18 @@
 //
 #include <iostream>
 
+using namespace std;
+
 int main(){
     int Nino = 0, Dulces = 0;
-    std::cin >> Nino;
+    cin >> Nino;
 
     for(int i = 0; i != Nino; i++){
          Dulces += (i+1);
+
     }
 
-    std::cout<<Dulces<<std::endl;
+    cout<<Dulces<<endl;
 
     return 0;
 }
