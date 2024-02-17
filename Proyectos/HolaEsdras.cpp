@@ -13,10 +13,7 @@ int main(){
          Dulces += (i+1);
 
     }
-    //Std ZZZ
     cout<<Dulces<<endl;
-    cout<<"El pollito pio";
-    cout<<"Hiola";
 
     return 0;
 }
