@@ -16,6 +16,7 @@ int main(){
     //Std ZZZ
     cout<<Dulces<<endl;
     cout<<"El pollito pio";
+    cout<<"Hiola";
 
     return 0;
 }
